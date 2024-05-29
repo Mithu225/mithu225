@@ -23,4 +23,4 @@ I'm a passionate Frontend Developer with a knack for creating beautiful and func
 ## Contact Me
 
 - [Email](mailto:thuhuynh.2205@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mithu225/))
+- [LinkedIn](https://www.linkedin.com/in/mithu225/)
