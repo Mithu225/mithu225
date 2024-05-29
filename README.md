@@ -3,7 +3,7 @@
 I'm a passionate Frontend Developer with a knack for creating beautiful and functional web applications.
 
 ## About Me
-
+- 👩‍💻 Bachelor's Degree in Computer Science.
 - 🌱 Learning **I'm currently studying at Noroff School of Technology and Digital Media** 👩‍🎓 **So far, I've come along way with HTML, CSS and JS, and I'm excited to learn more as I go**. 🚂
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, and more!**
 - 📫 Reach me at **thuhuynh.2205@gmail.com**
