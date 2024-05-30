@@ -6,7 +6,7 @@ I'm a passionate Frontend Developer with a knack for creating beautiful and func
 - 👩‍💻 Bachelor's Degree in **Computer Science**.
 - 🌱 Learning **I'm currently studying at Noroff School of Technology and Digital Media** 👩‍🎓 **So far, I've come along way with HTML, CSS and JS, and I'm excited to learn more as I go**. 🚂
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, and more!**
-- 📫 Reach me at **thuhuynh.2205@gmail.com**
+- 📫 Reach me at **hi@thuhuynh.no**
 - ⚡ Fun fact: **My second fantasy is to own a cooker, which would allow me to chop vegetables, stir sauces, and monitor the oven at the same time.**
 
 <p>
@@ -35,5 +35,5 @@ I'm a passionate Frontend Developer with a knack for creating beautiful and func
 
 ## Contact Me
 
-- [Email](mailto:thuhuynh.2205@gmail.com)
+- [Email](mailto:hi@thuhuynh.no)
 - [LinkedIn](https://www.linkedin.com/in/mithu225/)
